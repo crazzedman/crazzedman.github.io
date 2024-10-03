@@ -12,11 +12,11 @@
   }
   
   body {
-    background: var(--cg-grey);
     position: relative;
     min-height: 100vh;
     padding: 0;
-    margin: 0;
+    margin: 0;;
+    background-image: url("C:\Users\Aaron\Desktop\crazzedman.github.io\Images&Icons\Sunset.jpg")
     font-family: monospace;
   }
   
