@@ -21,6 +21,8 @@
     margin: 0;
     background-position: center;
     font-family: monospace;
+    overflow: auto;
+    color: var(--cg-white);
   }
   
   /* CSS for navigation */
@@ -176,7 +178,7 @@
     align-items: center;
     justify-content: center;
     padding: 40px;
-    background-color: #f8f8f8;
+    background-color: var(--cg-black);
     border: 1px solid #ccc;
     border-radius: 5px;
     flex-direction: row;
@@ -215,7 +217,6 @@
   
     padding: 5px 7px;
     text-align: center;
-  
     border-radius: 2px;
   }
   
@@ -259,12 +260,38 @@
   .footer {
     display: flex;
     justify-content: center;
-    align-items: right;
+    align-items: bottom;
     background-color: var(--cg-black);
     color: var(--cg-white);
     position: absolute;
-    bottom: 0;
+    bottom: -325px;
     width: 100%;
     height: 2.5rem;
+  }
+  .resume{
+    background-color: var(--cg-black);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    flex-direction: row;
+  }
+  .resume h2{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+  }
+  .entry{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+  }
+  .entry h3{
+    display: flex;
+    align-items: center;
   }
   
