@@ -12,11 +12,12 @@
   }
   
   body {
-    position: relative;
+    background-image: url("Sunset.jpg");
+    background-color: var(--cg-grey);
     min-height: 100vh;
     padding: 0;
-    margin: 0;;
-    background-image: url("C:\Users\Aaron\Desktop\crazzedman.github.io\Images&Icons\Sunset.jpg");
+    margin: 0;
+    background-position: center;
     font-family: monospace;
   }
   
@@ -171,23 +172,24 @@
   .about {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     padding: 20px;
     background-color: #f8f8f8;
     border: 1px solid #ccc;
     border-radius: 5px;
+    flex-direction: row;
     /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
   }
   
   .about-image img {
-    max-width: 300px;
-    border-radius: 3px;
+    max-width: 180px;
+    border-radius: 50%;
     /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); */
   }
   
   .about-text {
     flex: 1;
-    margin-left: 20px;
+    margin-left: 100px;
   }
   
   .about-text h2 {
@@ -196,7 +198,7 @@
   }
   
   .about-text p {
-    font-size: 16px;
+    font-size: 13px;
     line-height: 1.5;
   }
   
@@ -255,7 +257,7 @@
   .footer {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: right;
     background-color: var(--cg-black);
     color: var(--cg-white);
     position: absolute;
