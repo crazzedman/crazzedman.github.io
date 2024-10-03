@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=match
+comment1.params=
+comment1.target=match()
+comment10.params=name
+comment10.target=pokemon\ findPokemon(java.lang.String)
+comment11.params=name
+comment11.target=Move\ findMove(java.lang.String)
+comment12.params=pokemons
+comment12.target=boolean\ stillAlive(java.util.ArrayList)
+comment2.params=
+comment2.target=match\ getInstance()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=ai\ me
+comment4.target=void\ simulateBattle(aitrainer,\ trainer)
+comment5.params=
+comment5.target=void\ playMusic()
+comment6.params=
+comment6.target=trainer\ chooseTrainer()
+comment7.params=
+comment7.target=aitrainer\ chooseAITrainer()
+comment8.params=name
+comment8.target=trainer\ findAvatar(java.lang.String)
+comment9.params=name
+comment9.target=aitrainer\ findAI(java.lang.String)
+numComments=13

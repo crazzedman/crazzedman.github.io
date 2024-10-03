@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Map
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Map\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Map()
+comment2.params=
+comment2.target=Map\ getInstance()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=start\ destination\ cost
+comment4.target=int\ ufc(Location,\ Location,\ int)
+comment5.params=
+comment5.target=void\ storeLinkData()
+comment6.params=A\ B\ distance
+comment6.target=void\ linkLocations(Location,\ Location,\ int)
+comment7.params=
+comment7.target=void\ storeLocationData()
+comment8.params=
+comment8.target=void\ loadLocationData()
+numComments=9

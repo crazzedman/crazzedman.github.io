@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Environment
+comment1.params=ct\ dt\ fw
+comment1.target=double\ simulate(double,\ double,\ boolean)
+comment2.params=
+comment2.target=void\ returntemp()
+comment3.params=
+comment3.target=double\ returndt()
+comment4.params=
+comment4.target=double\ changetemp()
+numComments=5

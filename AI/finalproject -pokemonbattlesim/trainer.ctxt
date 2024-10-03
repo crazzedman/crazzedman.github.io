@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=trainer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ trainer\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cname\ cwins\ closses\ cpokemons
+comment1.target=trainer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.ArrayList)
+comment2.params=cname
+comment2.target=trainer(java.lang.String)
+comment3.params=poke
+comment3.target=void\ addPokemon(pokemon)
+comment4.params=
+comment4.target=java.util.ArrayList\ getPokemons()
+numComments=5

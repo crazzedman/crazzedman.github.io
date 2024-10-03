@@ -1,0 +1,112 @@
+Scratch
+Normal
+damage
+6
+80
+10
+none
+Ember
+Fire
+damage
+6
+80
+10
+none
+Flare Charge
+Fire
+damage
+10
+70
+10
+none
+Flamethrower
+Fire
+damage
+15
+70
+5
+none
+Hydro Pump
+Water
+damage
+20
+50
+5
+none
+Rapid Spin
+Normal
+priority
+5
+100
+10
+none
+Water Pulse
+Water
+damage
+6
+90
+10
+none
+Tackle
+Normal
+damage
+5
+100
+10
+none
+Vine Whip
+Grass
+damage
+15
+50
+10
+none
+Razor Leaf
+Grass
+damage
+15
+50
+10
+none
+Leech Seed
+Grass
+tickdamage
+5
+100
+10
+none
+Solar Beam
+Grass
+damage
+20
+40
+5
+none
+Thunderbolt
+Electric
+damage
+25
+35
+5
+none
+Quick Attack
+Normal
+priority
+5
+100
+10
+none
+Electro Web
+Electric
+tick
+5
+100
+10
+none
+Iron Tail
+Steel
+damage 
+7
+100
+10
+none

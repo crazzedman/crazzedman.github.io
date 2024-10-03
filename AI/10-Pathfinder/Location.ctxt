@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Location
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Location\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cname\ csld
+comment1.target=Location(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=place
+comment3.target=int\ compareTo(Location)
+comment4.params=A\ distance
+comment4.target=void\ addLink(Location,\ int)
+comment5.params=A
+comment5.target=boolean\ isLinked(Location)
+comment6.params=
+comment6.target=java.util.PriorityQueue\ getLinks()
+numComments=7

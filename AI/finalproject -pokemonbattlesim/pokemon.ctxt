@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=pokemon
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ pokemon\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cname\ chealth\ cspeed\ ctype\ cmoves
+comment1.target=pokemon(java.lang.String,\ int,\ int,\ Type,\ java.util.ArrayList)
+comment2.params=
+comment2.target=int\ getHealth()
+comment3.params=
+comment3.target=int\ getSpeed()
+comment4.params=change
+comment4.target=void\ changeHealth(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=void\ printMoves()
+comment7.params=num
+comment7.target=Move\ useMove(int)
+numComments=8

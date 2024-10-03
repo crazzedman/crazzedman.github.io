@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Runner
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=points\ color
+comment2.target=void\ drawGraph(java.util.ArrayList,\ boolean)
+comment3.params=nnet\ testSet\ color
+comment3.target=void\ testNeuralNetwork(org.neuroph.core.NeuralNetwork,\ org.neuroph.core.data.DataSet,\ boolean)
+numComments=4

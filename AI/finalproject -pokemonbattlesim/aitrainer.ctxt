@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=aitrainer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ aitrainer\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cname\ cdifficulty\ cpokemons
+comment1.target=aitrainer(java.lang.String,\ java.lang.String,\ java.util.ArrayList)
+comment2.params=
+comment2.target=java.util.ArrayList\ getPokemons()
+comment3.params=
+comment3.target=int\ act()
+comment4.params=
+comment4.target=void\ decide()
+comment5.params=ct
+comment5.target=void\ sense(int)
+numComments=6

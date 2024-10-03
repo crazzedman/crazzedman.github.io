@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GuessingGame
+comment1.params=
+comment1.target=void\ initialize()
+comment2.params=set\ setv2\ inStrt\ inEnd
+comment2.target=BTNode\ buildTree(java.util.LinkedList,\ java.util.LinkedList,\ int,\ int)
+comment3.params=set\ strt\ end\ value
+comment3.target=int\ search(java.util.LinkedList,\ int,\ int,\ java.lang.String)
+comment4.params=node
+comment4.target=void\ dump(BTNode)
+comment5.params=node
+comment5.target=void\ dumpv2(BTNode)
+comment6.params=
+comment6.target=void\ run()
+numComments=7

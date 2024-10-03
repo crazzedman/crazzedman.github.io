@@ -1,0 +1,10 @@
+Name :: Red
+5
+Charmander
+Squirtle
+Bulbasaur
+Name :: ACE
+9
+Charmander
+Squirtle
+Pikachu

@@ -1,0 +1,57 @@
+Name :: Charmander
+Fire
+39
+65
+Scratch
+Ember
+Flare Charge
+Flamethrower
+Name :: Squirtle
+Water
+44
+43
+Hydro Pump
+Rapid Spin
+Water Pulse
+Tackle
+Name :: Bulbasaur
+Grass
+45
+45
+Vine Whip
+Razor Leaf
+Leech Seed
+Solar Beam
+Name :: Pikachu
+Electric
+35
+90
+Thunderbolt
+Quick Attack
+Electro Web
+Iron Tail
+Name :: Torchic
+Fire
+45
+45
+Reversal
+Flare Blitz
+Growl
+Ariel Ace
+Name :: Treecko
+Grass
+40
+70
+Giga Drain
+Leaf Storm
+Endeavor
+Rest
+Name :: Mudkip
+Water
+50
+40
+Protect
+Hydro Pump
+Rock Throw
+Amnesia
+

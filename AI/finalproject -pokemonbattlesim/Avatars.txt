@@ -1,0 +1,6 @@
+Name :: Aaron
+wins :: 0
+losses :: 0
+Pikachu
+Charmander
+Squirtle

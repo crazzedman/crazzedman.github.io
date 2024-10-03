@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Distance
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Coordinate\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=corigin\ cdest
+comment1.target=Distance(Coordinate,\ Coordinate)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=cord
+comment11.target=int\ compareTo(Distance)
+comment2.params=corigin\ cdest\ cshortpath
+comment2.target=Distance(Coordinate,\ Coordinate,\ java.util.ArrayList)
+comment3.params=corigin\ cdest\ cost\ cshortpath
+comment3.target=Distance(Coordinate,\ Coordinate,\ double,\ java.util.ArrayList)
+comment4.params=
+comment4.target=java.util.ArrayList\ getList()
+comment5.params=
+comment5.target=double\ getDist()
+comment6.params=cord
+comment6.target=void\ addLocation(Coordinate)
+comment7.params=
+comment7.target=double\ calculateTotal()
+comment8.params=
+comment8.target=Coordinate\ getOrigin()
+comment9.params=
+comment9.target=Coordinate\ getDest()
+numComments=12

@@ -2,9 +2,10 @@
     /* variables */
     --cg-black: rgb(30, 32, 32);
     --cg-blue: rgb(23, 79, 211);
-    --cg-grey: rgb(243, 243, 243);
+    --cg-grey: rgb(242, 242, 242);
     --cg-white: rgb(255, 255, 255);
-    --cg-red: rgb(255,0,0)
+    --cg-red: rgb(255,0,0);
+    --cg-sun: rgb(102, 39, 16);
   }
   
   html {
@@ -12,12 +13,13 @@
   }
   
   body {
-    background-color: var(--cg-grey);
+    background-color: var(--cg-sun);
     min-height: 100vh;
     padding: 0;
     margin: 0;
     background-position: center;
     font-family: monospace;
+    color: var(--cg-white);
   }
   
   /* CSS for navigation */
@@ -85,7 +87,6 @@
     padding: 0 20px 40px 20px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
   }
   
@@ -103,6 +104,7 @@
     flex-direction: row;
     max-width: 100%;
     margin: 1em 0 2em 0;
+  
   
     /* Debug border */
     /* border: 2px solid blue; */
@@ -128,7 +130,7 @@
   
   .project-details {
     display: flex;
-    background-color: var(--cg-white);
+    background-color: var(--cg-black);
     width: 30%;
     height: 500px;
     flex-shrink: 1;
@@ -259,7 +261,7 @@
     background-color: var(--cg-black);
     color: var(--cg-white);
     position: absolute;
-    bottom: 0;
+    bottom: -600px;
     width: 100%;
     height: 2.5rem;
   }
