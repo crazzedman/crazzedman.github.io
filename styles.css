@@ -4,6 +4,7 @@
     --cg-blue: rgb(36, 94, 255);
     --cg-grey: rgb(243, 243, 243);
     --cg-white: rgb(255, 255, 255);
+    --cg-red: rgb(255,0,0)
   }
   
   html {
