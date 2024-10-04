@@ -260,7 +260,7 @@
   .footer {
     display: flex;
     justify-content: center;
-    align-items: bottom;
+    align-items: center;
     background-color: var(--cg-black);
     color: var(--cg-white);
     position: absolute;
