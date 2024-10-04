@@ -294,4 +294,15 @@
     display: flex;
     align-items: center;
   }
-  
+  .lower {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    background-color: var(--cg-black);
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    flex-direction: row;
+    margin-top: 400px;
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+  }

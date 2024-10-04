@@ -5,7 +5,7 @@
     --cg-grey: rgb(242, 242, 242);
     --cg-white: rgb(255, 255, 255);
     --cg-red: rgb(255,0,0);
-    --cg-sun: rgb(102, 39, 16);
+    --cg-sun: rgb(107, 204, 240);
   }
   
   html {
@@ -14,6 +14,7 @@
   
   body {
     background-color: var(--cg-sun);
+    background-image: url("sunset2.jpg");
     min-height: 100vh;
     padding: 0;
     margin: 0;
